@@ -107,4 +107,3 @@ output = predict_with_network(input_data)
 print(output)
 
 
-        filler
