@@ -61,3 +61,14 @@ print("Mean squared error with weights_1: %f" %mse_1)
 
 #Gradient descent
 
+# Calculate the predictions: preds
+preds = np.sum(weights * input_data)
+
+# Calculate the error: error
+error = preds - target
+
+# Calculate the slope: slope
+slope = 2 * input_data * error
+
+# Print the slope
+print(slope)
