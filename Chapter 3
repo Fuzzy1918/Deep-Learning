@@ -19,3 +19,5 @@ model.add(Dense(32, activation='relu'))
 
 # Add the output layer
 model.add(Dense(1))
+
+#Compiling and fitting a model
