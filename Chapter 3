@@ -57,3 +57,8 @@ model.compile(optimizer='adam', loss='mean_squared_error')
 
 # Fit the model
 model.fit(predictors, target)
+
+#Classification models
+
+
+
