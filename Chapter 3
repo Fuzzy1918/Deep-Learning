@@ -85,4 +85,5 @@ model.compile(optimizer = 'sgd', loss = 'categorical_crossentropy', metrics = ['
 # Fit the model
 model.fit(predictors, target)
 
+#Using models
 
