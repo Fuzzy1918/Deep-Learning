@@ -21,3 +21,5 @@ for lr in lr_to_test:
     
     # Fit the model
     model.fit(predictors, target)
+
+#Model validation
