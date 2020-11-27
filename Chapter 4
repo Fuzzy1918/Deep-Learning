@@ -120,5 +120,6 @@ plt.ylabel('Validation score')
 plt.show()
 
 #Thinking about model capacity
+#also known as underfitting or overfitting a dataset
 
 
