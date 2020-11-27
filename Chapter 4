@@ -119,5 +119,6 @@ plt.xlabel('Epochs')
 plt.ylabel('Validation score')
 plt.show()
 
+#Thinking about model capacity
 
 
